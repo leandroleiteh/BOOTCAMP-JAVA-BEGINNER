@@ -1,0 +1,30 @@
+COMANDOS GIT:
+
+GIT STAUTS - PARA VERIFICAR SE HÁ ALGUMA TAREFA A EXECUTAR
+
+GIT ADD . OU GIT ADD -A OU GIT ADD * - PARA JUNTAR TODOS OS ARQUIVOS PARA SATAGED
+
+GIT COMMIT -M " mensagem " - para commitar os arquivos e deixar prontos para enviar para o
+repositório do Github
+
+GIT PUSH ORIGIN MAIN - para enviar os arquivos comitados para o repositorio do Github
+
+
+
+* …ou crie um novo repositório na linha de comando
+
+echo "# BOOTCAMP-JAVA-BEGGINER" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/leandroleiteh/BOOTCAMP- JAVA-BEGGINER.git
+git push -u origin main *
+
+
+
+* …ou envie um repositório existente a partir da linha de comando
+
+git remote add origin https://github.com/leandroleiteh/BOOTCAMP-JAVA-BEGGINER.git
+ git branch -M main 
+git push -u origin main * 
