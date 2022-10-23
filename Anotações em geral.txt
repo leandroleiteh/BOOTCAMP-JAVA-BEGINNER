@@ -7,3 +7,14 @@ LINK SOBRE FORKS
 https://web.dio.me/course/git-e-github-focado-em-pullrequest/learning/7ee9e586-a200-41de-a075-fd6a7b4b5a1e (ASSISTIR/ESTUDAR)
 
 -------------------------------------------------------------------------------------------------------------------------------------
+
+*ANOTAÇÕES JAVA*
+
+UPER_CASE: TUDO MAIUSCULO
+camelCase: minusculoMaiusculo (deve inicar com letra minuscula, (underline:  _ ) ou $
+
+Para declarar variáveis que não vão sofrer mudanças ao decorrer do algorítimo,
+usamos (VARIÁVEIS COM NOME MAÍUSCULO) EX: String BR = "Brasil" ou, colocar EX:
+final String BR = "Brasil" 
+
+
